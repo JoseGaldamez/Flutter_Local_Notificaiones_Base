@@ -1,16 +1,13 @@
-# local_notifications
+# Flutter local notifications base project
 
-A new Flutter project.
+Proyecto base para aplicaciones de Flutter con notificaciones locales.
 
-## Getting Started
+## Más información
 
-This project is a starting point for a Flutter application.
+Puede ver el proceso de creación de este proyecto en el siguiente enlace: [Notificaiones Locales con Flutter - Código Correcto](https://www.codigocorrecto.com/flutter/notificaciones-con-flutter-en-espanol/)
 
-A few resources to get you started if this is your first Flutter project:
+## Vídeo de Youtube
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+URL: [https://www.youtube.com/watch?v=VyKeA5fV7No](https://www.youtube.com/watch?v=VyKeA5fV7No)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Notificaciones Locales con Flutter](https://i.ytimg.com/vi/VyKeA5fV7No/maxresdefault.jpg)](https://www.youtube.com/watch?v=VyKeA5fV7No)
